@@ -1,11 +1,11 @@
 {
-	"name": "Deploy",
+	"name": "THARAKA",
 	"description": "Wa Bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://www.facebook.com/profile.php?id=100075135472391",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
