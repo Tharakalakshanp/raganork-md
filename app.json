@@ -1,11 +1,11 @@
 {
-	"name": "Deploy",
+	"name": "THARAKA",
 	"description": "Wa Bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -86,6 +86,6 @@
       "url": "heroku-community/apt"
       },
       {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      "url": "https://www.facebook.com/profile.php?id=100075135472391"
       }]
   }
